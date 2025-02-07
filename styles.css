@@ -1,12 +1,12 @@
   body {
        font-family: Arial, sans-serif;
-       background-color: #ffffff;
+       background-color: #f0f0f0;
        color: #333;
        text-align: center;
    }
 
    header {
-       background-color: #b9a7a7;
+       background-color: #4CAF50;
        padding: 20px;
        border-radius: 5px;
    }
